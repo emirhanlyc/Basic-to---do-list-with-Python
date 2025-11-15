@@ -1,6 +1,10 @@
 📝 To-Do List Application
 Python · Tkinter · ttkbootstrap
 
+![App Screenshot](screenshot.png)
+
+
+
 This project is a simple, modern, and functional To-Do List application built using Python’s Tkinter library and the ttkbootstrap theme. It is designed to help users easily organize, mark, and reorder their daily tasks.
 
 🚀 Features:
